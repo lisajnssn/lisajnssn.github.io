@@ -1,6 +1,6 @@
 ---
 # Display name
-title: LISA JANSSENS
+title: LISA JANSSEN
 
 # Name pronunciation (optional)
 name_pronunciation: ''
