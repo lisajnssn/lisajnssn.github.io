@@ -47,6 +47,7 @@ profiles:
 interests:
   - Democratic Attitudes
   - Political Psychology
+  - Political Behavior 
   - Affective Polarization
 
 education:
