@@ -31,4 +31,10 @@ links:
   url: https://osf.io/ru6sf/
 url_pdf: uploads/janssen-et-al-2023-privatization-of-preschool-education-the-implications-for-educational-inequalities-in-cross-national.pdf
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
 ---
