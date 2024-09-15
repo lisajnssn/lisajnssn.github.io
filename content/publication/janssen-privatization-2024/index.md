@@ -29,4 +29,6 @@ abstract: Preschool education is regarded by many researchers and policymakers a
 links:
 - name: URL
   url: https://journals.sagepub.com/doi/10.1177/00016993231205201
+- name: PDF
+  url: https://journals.sagepub.com/doi/10.1177/00016993231205201
 ---
