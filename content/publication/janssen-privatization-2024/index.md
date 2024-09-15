@@ -27,8 +27,8 @@ abstract: Preschool education is regarded by many researchers and policymakers a
   impact of national preschool settings on the distribution of preschool beneﬁts across
   children with varying socioeconomic backgrounds.
 links:
+- name: Replication Package
+  url: https://osf.io/ru6sf/
 url_pdf: uploads/janssen-et-al-2023-privatization-of-preschool-education-the-implications-for-educational-inequalities-in-cross-national.pdf
-- name: Replication
-  url: 'https://osf.io/ru6sf/'
 
 ---
