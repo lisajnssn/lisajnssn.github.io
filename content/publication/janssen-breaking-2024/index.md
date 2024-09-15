@@ -25,4 +25,23 @@ abstract: 'Scholars increasingly raise concerns about the alleged detrimental im
   findings have important implications for our understanding of the dynamics between
   affective polarization and democratic support, as well as for the recommended estimation
   strategies of future studies that aim to explore this relationship.'
+links:
+- name: Replication Package
+  url: https://osf.io/hu6f3/
+url_pdf: uploads/janssen-et-al-2023-privatization-of-preschool-education-the-implications-for-educational-inequalities-in-cross-national.pdf
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
+
+tags:
+- Democratic Support
+- Affective Polarization
+- Partisanship
+- Political Support
+- Cross-national Research
+featured: true
 ---
