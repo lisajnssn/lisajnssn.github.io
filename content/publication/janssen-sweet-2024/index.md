@@ -24,4 +24,24 @@ abstract: Accepting defeat in the aftermath of elections is crucial for the stab
 links:
 - name: URL
   url: https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12625
+
+  links:
+- name: Replication Package
+  url: https://osf.io/6wbg2/
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
+
+tags:
+- Affective Polarization
+- Ideological Polarization
+- Political Support
+- Winner-loser Gap
+- Losers' Consent
+- Multilevel Growth Curve Model
+featured: true
 ---
