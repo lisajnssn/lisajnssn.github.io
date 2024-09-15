@@ -7,6 +7,10 @@
 appearance:
   mode: system
   color: sky
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: L
 
 # SEO
 marketing:
