@@ -37,4 +37,11 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
+
+tags:
+- Privatization
+- Preschool
+- ECEC
+- Educational Inequalities 
+featured: true
 ---
