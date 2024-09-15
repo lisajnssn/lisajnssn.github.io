@@ -28,7 +28,7 @@ abstract: Preschool education is regarded by many researchers and policymakers a
   children with varying socioeconomic backgrounds.
 links:
 url_pdf: uploads/janssen-et-al-2023-privatization-of-preschool-education-the-implications-for-educational-inequalities-in-cross-national.pdf
-- name: Replication-Package
+- name: Replication
   url: 'https://osf.io/ru6sf/'
 
 ---
