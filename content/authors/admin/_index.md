@@ -147,9 +147,6 @@ awards:
     summary:
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
 ---
-
-## About Me
-
 I am a PhD candidate at [Ghent University](https://www.ugent.be/en), affiliated with the Department of Political Science and the [GASPAR research group](https://www.ugent.be/ps/politiekewetenschappen/gaspar/en). My primary research interests lie at the intersection of political psychology, political behaviour, and comparative politics, with a particular focus on understanding citizens’ commitments to democratic procedures and principles. In my dissertation, I examine how affective polarization influences citizens’ willingness to prioritize political gain over democratic values. Methodologically, I employ a range of quantitative techniques, including experiments, panel data analysis, and cross-national surveys. As a political scientist, I am committed to interdisciplinary research and open science principles.
 
 My work is supported by the [Research Foundation Flanders (FWO)](https://www.fwo.be/en/) under a four-year fundamental research fellowship, and has been published in leading international peer-reviewed journals, such as the _European Journal of Political Research_, _Acta Politica_, and _Acta Sociologica_. Thank you for visiting this website, and feel free to contact me for any inquiries or collaborations.
