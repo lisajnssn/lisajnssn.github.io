@@ -40,6 +40,9 @@ sections:
         exclude_featured: false
     design:
       view: citation
+      css_class: ''
+      background:
+        color: '#272935'
   - block: collection
     id: papers
     content:
