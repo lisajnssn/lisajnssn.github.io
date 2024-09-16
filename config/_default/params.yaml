@@ -6,8 +6,7 @@
 # Appearance
 appearance:
   mode: dark
-  color: indigo
-  theme: indigo
+  color: cyan
   
 # SEO
 marketing:
