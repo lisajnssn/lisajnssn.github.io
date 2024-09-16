@@ -65,7 +65,7 @@ education:
       Divided over democracy - The effects of affective polarization on citizens' democratic attitudes in Europe. Supervised by Prof. Anna Kern (Ghent University) & Prof. Hannah Werner (University of Zürich). 
     button:
       text: 'Read Thesis Abstract'
-      url: 'https://www.ugent.be/ps/politiekewetenschappen/gaspar/en/team/lisajanssen.htm'
+      url: 'https://lisajnssn.github.io/#dissertationphd'
   - area: Research Master Social Sciences
     institution: University of Amsterdam
     date_start: 2020-09-01
