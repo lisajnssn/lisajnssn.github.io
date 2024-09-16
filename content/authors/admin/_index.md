@@ -33,21 +33,27 @@ profiles:
   - icon: at-symbol
     url: 'mailto:lisa.janssen@ugent.be'
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/lisajnssn
-  - icon: brands/github
-    url: https://github.com/lisajnssn
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/lisa-janssen-8b655a131/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=Ozx3sFwAAAAJ&hl=en&oi=sra
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-5299-4276
+    label: OrcID
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=Ozx3sFwAAAAJ&hl=en&oi=sra
+    label: Scholar
+  - icon: brands/x
+    url: https://x.com/lisajnssn
+    label: Twitter
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/lisa-janssen-8b655a131/
+    label: Linkedin
+  - icon: brands/github
+    url: https://github.com/lisajnssn
+    label: Github
 
 interests:
   - Democratic Attitudes
   - Political Psychology
-  - Political Behavior 
+  - Political Behavior
+  - Comparative Politics
   - Affective Polarization
 
 education:
@@ -146,4 +152,4 @@ awards:
 
 I am a PhD candidate at Ghent University, affiliated with the Department of Political Science and the [GASPAR research group](https://www.ugent.be/ps/politiekewetenschappen/gaspar/en). My primary research interests lie at the intersection of political psychology, political behaviour, and comparative politics, with a particular focus on understanding citizens’ commitments to democratic procedures and principles. In my dissertation, I examine how affective polarization influences citizens’ willingness to prioritize political gain over democratic values. Methodologically, I employ a range of quantitative techniques, including experiments, panel data analysis, and cross-national surveys. As a political scientist, I am committed to interdisciplinary research and open science principles.
 
-My work is supported by the Research Foundation Flanders (FWO) under a four-year fundamental research fellowship, and has been published in leading international peer-reviewed journals, such as the _European Journal of Political Research_, _Acta Politica_, and _Acta Sociologica_. Thank you for visiting this, and feel free to contact me for any inquiries or collaborations.
+My work is supported by the [Research Foundation Flanders (FWO)](https://www.fwo.be/en/) under a four-year fundamental research fellowship, and has been published in leading international peer-reviewed journals, such as the _European Journal of Political Research_, _Acta Politica_, and _Acta Sociologica_. Thank you for visiting this website, and feel free to contact me for any inquiries or collaborations.
