@@ -33,6 +33,7 @@ header:
     blox: "navbar"
     fixed_to_top: true
     show_search: true
+    highlight_active_link: true
     show_theme_chooser: true
     logo:
       text: "Lisa Janssen"
