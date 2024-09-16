@@ -36,10 +36,11 @@ disableAliases: true
 outputs:
   home: [HTML, RSS, headers, redirects, backlinks]
   section: [HTML, RSS]
-imaging:
+imaging: 
+  bgColor: '#ffffff'
+  hint: photo
+  quality: 99
   resampleFilter: box
-  quality: 100
-  anchor: smart
 timeout: 600000
 taxonomies:
   author: authors
