@@ -8,7 +8,7 @@ main:
     url: /
     weight: 10
   - name: Publications
-    url: /#Publications
+    url: /#published
     weight: 20
   - name: Papers
     url: /#papers
