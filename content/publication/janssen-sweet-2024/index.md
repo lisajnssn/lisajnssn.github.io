@@ -21,7 +21,7 @@ abstract: Accepting defeat in the aftermath of elections is crucial for the stab
   the political system following their electoral loss. Given the high and, in some
   Western democracies, rising polarization levels, these ﬁndings have important implications
   for losers’ consent and the stability of democracies in election times.
-  links:
+links:
 - name: Replication Package
   url: https://osf.io/6wbg2/
 
