@@ -31,3 +31,7 @@ sections:
       # Education or Experience section first?
       is_education_first: false
 ---
+  Download my full CV here
+  button:
+     text: 'Download CV'
+     url: 'https://lisajnssn.github.io/uploads/resume.pdf'
