@@ -31,7 +31,7 @@ sections:
           position: center
           parallax: false
   - block: collection
-    id: Publications
+    id: published
     content:
       title: Publications
       text: ""
