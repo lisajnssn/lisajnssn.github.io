@@ -10,6 +10,20 @@ design:
 
 # Page sections
 sections:
+  - block: markdown
+    id: cvdownload
+    content:
+      title: 'CV'
+      subtitle: 'Divided over Democracy - The effects of Affective Polarization on the Democratic Support of citizens in
+Europe'
+      text: |-
+        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+
+        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        
+        Please reach out to collaborate 😃
+    design:
+      columns: '1'
   - block: resume-experience
     content:
       username: admin
