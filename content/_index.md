@@ -56,7 +56,7 @@ sections:
       view: article-grid
       columns: 2
   - block: markdown
-    id: dissertation
+    id: dissertationphd
     content:
       title: 'Dissertation'
       subtitle: ''
