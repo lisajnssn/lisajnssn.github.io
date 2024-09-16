@@ -55,16 +55,20 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: markdown
+- block: markdown
     id: dissertationphd
     content:
       title: 'Dissertation'
-      subtitle: ''
+      subtitle: 'Divided over Democracy - The effects of Affective Polarization on the Democratic Support of citizens in
+Europe'
       text: |-
-        My dissertation titled **Divided over Democracy - The effects of Affective Polarization on Citizens' Democratic Support in Europe** is funded by the [Research Foundation Flanders (FWO)](https://www.fwo.be/en/) under a four-year fundamental research fellowship. Read the abstract of my dissertation below.
+        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
-        _Scholars warn that affective polarization – the tendency of partisans to dislike or even loathe supporters of opposing political parties – undermines citizens’ commitments to principles and norms on which democracies are founded (i.e., democratic support). Within the academic literature, speculation about the potential political consequences of affective polarization on democratic support is rife, but empirical evidence is inconsistent and mixed at best. In this project, I aim to address this gap by comprehensively studying the extent to which affective polarization erodes citizens’ democratic support in Europe. This project translates the concerns about the political consequences of affective polarization into a theoretical and empirical research agenda by (1) studying how affective polarization and democratic support relate to each other across countries and electoral contexts, (2) developing and testing a causal mechanism between affective polarization and democratic support, and by (3) examining the conditionality of the consequences of affective polarization on the losers and winners of salient political decisions. Methodologically, I employ crossnational survey data as well as survey experiments. This project offers innovative theoretical and empirical insights into a pressing question in contemporary scholarly discourse: To what extent does affective polarization threaten the quality and stability of democracies?_
+        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
         
+        Please reach out to collaborate 😃
+    design:
+      columns: '1'
     design:
       columns: '1'
   - block: collection
