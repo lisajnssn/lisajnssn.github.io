@@ -49,3 +49,5 @@ featured: true
 {{% callout note %}}
 A popular scientific blog on this paper published on _ECPR The Loop_ can be found [here](https://theloop.ecpr.eu/losing-the-vote-losing-the-faith-electoral-defeat-in-polarised-times/).
 {{% /callout %}}
+
+A popular scientific blog on this paper published on _ECPR The Loop_ can be found [here](https://theloop.ecpr.eu/losing-the-vote-losing-the-faith-electoral-defeat-in-polarised-times/).
