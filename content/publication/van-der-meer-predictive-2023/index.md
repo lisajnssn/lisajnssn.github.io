@@ -44,3 +44,5 @@ tags:
 - Party preference
 featured: true
 ---
+
+A popular scientific blog on this paper can be found [here](https://stukroodvlees.nl/wat-zeggen-eerste-kamerverkiezingen-en-peilingen-over-de-uitslag-van-de-tweede-kamerverkiezingen/). 
