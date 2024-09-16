@@ -36,7 +36,6 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
-  quality: 99
 
 tags:
 - Democratic Support
