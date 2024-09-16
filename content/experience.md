@@ -1,9 +1,8 @@
+dit is gewoon een test
 ---
 title: 'CV'
 date: 2023-10-24
 type: landing
-
-dit is gewoon een testje
 
 design:
   spacing: '1rem'
