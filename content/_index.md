@@ -42,8 +42,8 @@ sections:
       view: citation
       css_class: ''
       background:
-        color_dark: '#272935'
-        color_light: '#606480'
+        dark-color: '#272935'
+        light-color: '#606480'
   - block: collection
     id: papers
     content:
