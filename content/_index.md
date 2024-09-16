@@ -31,8 +31,9 @@ sections:
           position: center
           parallax: false
   - block: collection
+    id: Publications
     content:
-      title: Recent Publications
+      title: Publications
       text: ""
       filters:
         folders:
@@ -52,8 +53,9 @@ sections:
       view: article-grid
       columns: 2
   - block: markdown
+    id: Dissertation
     content:
-      title: 'Research'
+      title: 'Dissertation'
       subtitle: ''
       text: |-
         Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
