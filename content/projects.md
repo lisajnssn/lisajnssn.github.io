@@ -12,7 +12,10 @@ sections:
   - block: collection
     content:
       title: CV
-      text: Please find my full CV [here](/static/resume.pdf). 
+      text: Please find my full CV here:
+      button:
+          text: Download CV
+          url: uploads/resume.pdf
       filters:
         folders:
           - project
