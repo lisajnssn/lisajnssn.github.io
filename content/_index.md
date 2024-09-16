@@ -31,10 +31,9 @@ sections:
           position: center
           parallax: false
   - block: collection
-    id: published
+    id: publications
     content:
       title: Publications
-      text: ""
       filters:
         folders:
           - publication
