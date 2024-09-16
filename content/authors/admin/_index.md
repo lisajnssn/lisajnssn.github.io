@@ -62,7 +62,7 @@ education:
     date_start: 2022-07-01
     date_end: 2027-11-01
     summary: 
-      Divided over democracy - The effects of affective polarization on citizens' democratic attitudes in Europe. Supervised by [Prof. Anna Kern](https://annakern.eu/) & [Prof. Hannah Werner](https://hannahwerner.mystrikingly.com/).
+      Divided over democracy - The effects of affective polarization on citizens' democratic attitudes in Europe. Supervised by Prof. Anna Kern (Ghent University) & Prof. Hannah Werner (University of Zürich). 
     button:
       text: 'Read Thesis Abstract'
       url: 'https://www.ugent.be/ps/politiekewetenschappen/gaspar/en/team/lisajanssen.htm'
@@ -71,7 +71,7 @@ education:
     date_start: 2020-09-01
     date_end: 2022-07-01
     summary: 
-      Cum Laude (GPA 89/100), top 3% of the 181 students who have obtained their degree between 2016 and 2022 (P97)
+      Cum Laude (GPA 89/100), top 3% of the 181 students who have obtained their degree between 2016 and 2022 (P97).
   - area: BSc Political Science
     institution: University of Amsterdam
     date_start: 2017-09-01
@@ -83,48 +83,8 @@ education:
     date_start: 2016-09-01
     date_end: 2020-01-01
     summary: 
-      Cum Laude (GPA 80/100)
+      Cum Laude (GPA 80/100).
  
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
-languages:
-  - name: Dutch
-    percent: 100
-  - name: English
-    percent: 90
-
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
