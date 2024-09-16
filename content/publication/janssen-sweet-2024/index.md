@@ -47,3 +47,4 @@ A popular scientific blog on this paper published on _ECPR The Loop_ can be foun
 {{% /callout %}}
 
 This paper served as my mater's thesis during the Research Masters Social Sciences and was supervised by prof. dr. Tom van der Meer. 
+A popular scientific blog on this paper published on _ECPR The Loop_ can be found [here](https://theloop.ecpr.eu/losing-the-vote-losing-the-faith-electoral-defeat-in-polarised-times/).
