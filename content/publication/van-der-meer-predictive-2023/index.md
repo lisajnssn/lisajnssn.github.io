@@ -26,6 +26,21 @@ abstract: Although vote intention polls are often used in the public debate as f
   midway through the election cycle. Third, the predictive value for individual voters
   is generally very low, until the last few months before the election.
 links:
-- name: URL
-  url: https://link.springer.com/10.1057/s41269-022-00250-x
+url_pdf: uploads/s41269-022-00250-x (4).pdf
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
+
+tags:
+- Opinion Polls
+- Elections
+- Voters
+- Forecast
+- Volatility
+- Party preference
+featured: true
 ---
