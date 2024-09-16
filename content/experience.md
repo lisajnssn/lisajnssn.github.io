@@ -16,7 +16,10 @@ sections:
       title: 'CV'
       subtitle: ''
       text: |-
-        Download my CV [here](https://lisajnssn.github.io/uploads/resume.pdf).
+        Download my full CV here
+      button:
+        text: 'Download CV'
+        url: 'https://lisajnssn.github.io/uploads/resume.pdf'
     design:
       columns: '1'
   - block: resume-experience
