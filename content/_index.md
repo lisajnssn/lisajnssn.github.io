@@ -59,7 +59,7 @@ sections:
     id: dissertationphd
     content:
       title: 'Dissertation'
-      subtitle: 'Divided over Democracy - The effects of Affective Polarization on Citizens' Democratic Support in
+      subtitle: 'Divided over Democracy - The effects of Affective Polarization on the Democratic Support of citizens in
 Europe'
       text: |-
         Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
