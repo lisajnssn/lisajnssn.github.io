@@ -84,15 +84,6 @@ education:
     date_end: 2020-01-01
     summary: 
       Cum Laude (GPA 80/100)
-work:
-  - position: Doctoral
-    company_name: Ghent University
-    company_url: ''
-    company_logo: ''
-    date_start: 2022-07-01
-    date_end: ''
-    summary:
-      ''
  
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
