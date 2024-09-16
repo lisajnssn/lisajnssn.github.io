@@ -1,5 +1,5 @@
 ---
-title: 'Projects'
+title: 'CV'
 date: 2024-05-19
 type: landing
 
@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: CV
+      text: Please find my full CV [here](/static/resume.pdf). 
       filters:
         folders:
           - project
