@@ -10,7 +10,7 @@ design:
 
 # Page sections
 sections:
-  - block: testje
+  - block: markdown
     id: cvdownload
     content:
       title: 'CV'
