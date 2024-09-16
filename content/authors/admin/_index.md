@@ -85,7 +85,7 @@ education:
     summary: 
       Cum Laude (GPA 80/100)
 work:
-  - position: Doctoral Researcher
+  - position: Doctoral
     company_name: Ghent University
     company_url: ''
     company_logo: ''
