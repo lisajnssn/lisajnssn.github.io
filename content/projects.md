@@ -1,5 +1,5 @@
 ---
-title: 'CV'
+title: 'Ccontact'
 date: 2024-05-19
 type: landing
 
@@ -8,16 +8,13 @@ design:
   spacing: '5rem'
 
 # Page sections
-sections:
-  - block: collection
+sections: 
+  - block: markdown
+    id: contactpage
     content:
-      title: CV
-      text: Please find my full CV [here](https://lisajnssn.github.io/uploads/resume.pdf).
-      filters:
-        folders:
-          - project
+      title: 'Contact'
+      subtitle: ''
+      text: <a href="https://lisajnssn.github.io/uploads/resume.pdf">Download my full CV here</a>
     design:
-      view: article-grid
-      fill_image: false
-      columns: 3
+      columns: '1'
 ---
