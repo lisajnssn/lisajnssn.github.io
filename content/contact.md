@@ -14,7 +14,7 @@ sections:
     content:
       title: 'Contact'
       subtitle: ''
-      text: <a href="https://lisajnssn.github.io/uploads/resume.pdf">Download my full CV here</a>
+      text: Contact me over e-mail at <a href="mailto:lisa.janssen@ugent.be">lisa.janssen@ugent.be</a>                                                                                     
 
         en probeer nog een regel te maken
     design:
