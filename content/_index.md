@@ -62,7 +62,7 @@ sections:
       subtitle: 'Divided over Democracy - The effects of Affective Polarization on the Democratic Support of citizens in
 Europe'
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My dissertation titled **'Divided over Democracy: The effects of Affective Polarization on Citizens' Democratic Support'** is funded by the Research Foundation Flanders (FWO) under a four-year fundamental research fellowship. Read the abstract of the dissertation below. 
 
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
         
