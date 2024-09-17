@@ -14,9 +14,9 @@ sections:
     content:
       title: 'Contact'
       subtitle: ''
-    text: Sint-Pietersnieuwstraat 41 – Technicum 1, 9000 Gent, Belgium.                                     
+      text: <a href="https://lisajnssn.github.io/uploads/resume.pdf">Download my full CV here</a>
     design:
-      columns: '1'        
+      columns: '1'     
 ---
 Ik probeer gewoon eventjes iets uit [link](https://annakern.eu/contact/)
 
