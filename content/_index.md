@@ -62,9 +62,9 @@ sections:
       subtitle: 'Divided over Democracy - The effects of Affective Polarization on the Democratic Support of citizens in
 Europe'
       text: |-
-        My dissertation titled **'Divided over Democracy: The effects of Affective Polarization on Citizens' Democratic Support'** is funded by the <a href="https://www.fwo.be/en/">Research Foundation Flanders (FWO)</a> under a four-year fundamental research fellowship (2023-2027). <p style="color: #67e8f9">Supervisors & Doctoral Advisory Committee</p>
+        My dissertation titled **'Divided over Democracy: The effects of Affective Polarization on Citizens' Democratic Support'** is funded by the Research Foundation Flanders (FWO) under a four-year fundamental research fellowship (2023-2027). <p style="color: #67e8f9">Supervisors & Doctoral Advisory Committee</p>
 
-        **Supervisors:** Prof. dr. Anna Kern (supervisor), Prof. dr. Hannah Werner (co-supervisor)                                                                                                           
+        **Supervisors:** Prof. dr. Anna Kern (supervisor) & Prof. dr. Hannah Werner (co-supervisor)                                                                                                           
         **Doctoral Advisory Committee:** Prof. dr. Suthan Krishnarajan, Prof. dr. Yphtach Lelkes, & Prof. dr. Markus Wagner. <p style="color: #67e8f9">Dissertation chapters</p>
         (1) Janssen, L. (2024). <a href="https://lisajnssn.github.io/publication/janssen-sweet-2024/">Sweet victory, bitter defeat: The amplifying effects of affective and perceived ideological polarization on the winner–loser gap in political support.</a> _European Journal of Political Research_.                                                                                                                   
         (2) Janssen, L., & Turkenburg, E. (2024). <a href="https://lisajnssn.github.io/publication/janssen-breaking-2024/">Breaking free from linear assumptions: Unravelling the relationship between affective polarization and democratic support.</a> _European Journal of Political Research_. 
