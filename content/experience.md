@@ -15,7 +15,7 @@ sections:
     content:
       title: 'CV'
       subtitle: ''
-      text: |-
+      text: Download my full CV [here](https://www.fwo.be/en/). 
         Download my full CV here
       button:
         text: 'Download CV'
