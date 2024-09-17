@@ -15,7 +15,7 @@ sections:
     content:
       title: 'CV'
       subtitle: ''
-      text: <a href="https://lisajnssn.github.io/uploads/resume.pdf">DOWNLOAD MY FULL CV HERE</a>.
+      text: <a href="https://lisajnssn.github.io/uploads/resume.pdf">Download my full CV here</a>
     design:
       columns: '1'
   - block: resume-experience
