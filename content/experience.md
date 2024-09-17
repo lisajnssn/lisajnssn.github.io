@@ -4,7 +4,7 @@ date: 2023-10-24
 type: landing
 
 design:
-  spacing: '1rem'
+  spacing: '5rem'
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -15,10 +15,7 @@ sections:
     content:
       title: 'CV'
       subtitle: ''
-      text: Download my full CV <a href="https://lisajnssn.github.io/uploads/resume.pdf">HERE</a>. Download my full CV here
-      button:
-        text: 'Download CV'
-        url: 'https://lisajnssn.github.io/uploads/resume.pdf'
+      text: <a href="https://lisajnssn.github.io/uploads/resume.pdf">Download my full CV here</a>.
     design:
       columns: '1'
   - block: resume-experience
