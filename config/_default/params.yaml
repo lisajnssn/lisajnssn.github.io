@@ -11,7 +11,7 @@ appearance:
 # SEO
 marketing:
   verification:
-    google: <meta name="google-site-verification" content="_gNkcfSvDZc4riwD-qKOA5oEpm1Sh200-GH3b0uH9ZE" />
+    google: 'googleab8b30e03b1e546e.html'
     baidu: ''
   seo:
     site_type: Person
