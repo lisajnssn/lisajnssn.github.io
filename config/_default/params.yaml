@@ -10,6 +10,9 @@ appearance:
   
 # SEO
 marketing:
+  verification:
+    google: <meta name="google-site-verification" content="_gNkcfSvDZc4riwD-qKOA5oEpm1Sh200-GH3b0uH9ZE" />
+    baidu: ''
   seo:
     site_type: Person
     local_business_type: ''
@@ -22,9 +25,6 @@ marketing:
     plausible: ''
     fathom: ''
     pirsch: ''
-  verification:
-    google: <meta name="google-site-verification" content="_gNkcfSvDZc4riwD-qKOA5oEpm1Sh200-GH3b0uH9ZE" />
-    baidu: ''
 
 # Site header
 header:
