@@ -14,7 +14,7 @@ main:
     url: /#dissertationphd
     weight: 40
   - name: CV
-    url: experience/
+    url: cv/
     weight: 60
   - name: Contact
     url: contact/
