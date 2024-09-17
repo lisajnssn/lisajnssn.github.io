@@ -1,7 +1,3 @@
-Probeer hier eens iets te schrijven
-
-nog enter
-
 ---
 title: 'Ccontact'
 date: 2024-05-19
@@ -18,7 +14,7 @@ sections:
     content:
       title: 'Contact'
       subtitle: ''
-      text: <a href="https://lisajnssn.github.io/uploads/resume.pdf">Download my full CV here</a>
+      text: <a href="https://lisajnssn.github.io/uploads/resume.pdf">Download my full CV here</a>                                           en probeer nog een regel te maken
     design:
       columns: '1'     
 ---
