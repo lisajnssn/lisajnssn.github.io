@@ -1,3 +1,7 @@
+Probeer hier eens iets te schrijven
+
+nog enter
+
 ---
 title: 'Ccontact'
 date: 2024-05-19
@@ -18,8 +22,3 @@ sections:
     design:
       columns: '1'     
 ---
-Ik probeer gewoon eventjes iets uit [link](https://annakern.eu/contact/)
-
-en ook enters. 
-
-📧
