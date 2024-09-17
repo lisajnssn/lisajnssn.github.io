@@ -13,7 +13,7 @@ main:
   - name: Dissertation
     url: /#dissertationphd
     weight: 40
-  - name: Experience
+  - name: CV
     url: experience/
     weight: 60
   - name: Projects
