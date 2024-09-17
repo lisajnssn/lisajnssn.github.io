@@ -14,8 +14,7 @@ sections:
     content:
       title: 'Contact'
       subtitle: ''
-      text: <p>Contact me over e-mail at <a href="mailto:lisa.janssen@ugent.be">lisa.janssen@ugent.be</a> or [email](mailto:lisa.janssen@ugent.be).<br>
-    en probeer nog een regel te maken</p>
+      text: <p>Contact me over e-mail at <a href="mailto:lisa.janssen@ugent.be">lisa.janssen@ugent.be</a> or [email](mailto:lisa.janssen@ugent.be).<br> en probeer nog een regel te maken</p>
     design:
       columns: '1'     
 ---
