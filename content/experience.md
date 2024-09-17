@@ -15,8 +15,7 @@ sections:
     content:
       title: 'CV'
       subtitle: ''
-      text: Download my full CV [here](https://www.fwo.be/en/). 
-        Download my full CV here
+      text: Download my full CV [here](https://www.fwo.be/en/). <a href="https://www.fwo.be/en/">Azure DDOS Protection Standard</a>. Download my full CV here
       button:
         text: 'Download CV'
         url: 'https://lisajnssn.github.io/uploads/resume.pdf'
