@@ -62,14 +62,14 @@ sections:
       subtitle: 'Divided over Democracy - The effects of Affective Polarization on the Democratic Support of citizens in
 Europe'
       text: |-
-        My dissertation titled **'Divided over Democracy: The effects of Affective Polarization on Citizens' Democratic Support'** is funded by the Research Foundation Flanders (FWO) under a four-year fundamental research fellowship (2023-2027). <p style="color: #67e8f9">Supervisors & Doctoral Advisory Committee</p>
+        My dissertation titled **'Divided over Democracy: The effects of Affective Polarization on Citizens' Democratic Support'** is funded by the Research Foundation Flanders (FWO) under a four-year fundamental research fellowship (2023-2027). <p style="color: #0891B2">Supervisors & Doctoral Advisory Committee</p>
 
         **Supervisors:** Prof. dr. Anna Kern (supervisor) & Prof. dr. Hannah Werner (co-supervisor)                                                                                                           
-        **Doctoral Advisory Committee:** Prof. dr. Suthan Krishnarajan, Prof. dr. Yphtach Lelkes, & Prof. dr. Markus Wagner. <p style="color: #67e8f9">Dissertation chapters</p>
+        **Doctoral Advisory Committee:** Prof. dr. Suthan Krishnarajan, Prof. dr. Yphtach Lelkes, & Prof. dr. Markus Wagner. <p style="color: #0891B2">Dissertation chapters</p>
         (1) Janssen, L. (2024). <a href="https://lisajnssn.github.io/publication/janssen-sweet-2024/">Sweet victory, bitter defeat: The amplifying effects of affective and perceived ideological polarization on the winner–loser gap in political support.</a> _European Journal of Political Research_.                                                                                                                   
         (2) Janssen, L., & Turkenburg, E. (2024). <a href="https://lisajnssn.github.io/publication/janssen-breaking-2024/">Breaking free from linear assumptions: Unravelling the relationship between affective polarization and democratic support.</a> _European Journal of Political Research_. 
-
-        <p style="color: #67e8f9">Project abstract</p>
+        <p> </p>
+        <p style="color: #0891B2">Project abstract</p>
         
         _Scholars warn that affective polarization – the tendency of partisans to dislike or even loathe supporters of opposing political parties – undermines citizens’ commitments to principles and norms on which democracies are founded (i.e., democratic support). Within the academic literature, speculation about the potential political consequences of affective polarization on democratic support is rife, but empirical evidence is inconsistent and mixed at best. In this project, I aim to address this gap by comprehensively studying the extent to which affective polarization erodes citizens’ democratic support in Europe. This project translates the concerns about the political consequences of affective polarization into a theoretical and empirical research agenda by (1) studying how affective polarization and democratic support relate to each other across countries and electoral contexts, (2) developing and testing a causal mechanism between affective polarization and democratic support, and by (3) examining the conditionality of the consequences of affective polarization on the losers and winners of salient political decisions. Methodologically, I employ crossnational survey data as well as survey experiments. This project offers innovative theoretical and empirical insights into a pressing question in contemporary scholarly discourse: To what extent does affective polarization threaten the quality and stability of democracies?_
         
