@@ -1,5 +1,5 @@
 ---
-title: 'Publisher Correction: Pushing and Pulling: The Static and Dynamic Effects
+title: 'Pushing and Pulling: The Static and Dynamic Effects
   of Political Distrust on Support for Representative Democracy and its Rivals'
 authors:
 - Tom van der Meer
