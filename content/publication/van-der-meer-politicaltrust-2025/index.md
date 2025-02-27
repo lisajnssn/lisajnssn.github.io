@@ -33,6 +33,7 @@ abstract: Distrust is widely argued to stimulate support for political and insti
   with the idea of dissatisfied democrats, whose distrust drives their ambition for
   more direct influence.
 links:
-- name: URL
-  url: https://link.springer.com/article/10.1007/s11109-024-09994-y
+- name: Replication Package
+  url: https://osf.io/h5m6t/
+url_pdf: uploads/2025 Van der Meer, Janssen.pdf
 ---
